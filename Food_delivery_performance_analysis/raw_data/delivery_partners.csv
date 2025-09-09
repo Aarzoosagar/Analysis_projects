@@ -1,0 +1,16 @@
+delivery_partner_id,partner_name,avg_delivery_time_min,total_deliveries
+1,Partner_1,56,429
+2,Partner_2,55,323
+3,Partner_3,54,371
+4,Partner_4,38,457
+5,Partner_5,39,255
+6,Partner_6,37,472
+7,Partner_7,33,107
+8,Partner_8,34,221
+9,Partner_9,50,447
+10,Partner_10,20,263
+11,Partner_11,22,189
+12,Partner_12,35,235
+13,Partner_13,42,285
+14,Partner_14,30,415
+15,Partner_15,31,277
